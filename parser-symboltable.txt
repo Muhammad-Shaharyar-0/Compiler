@@ -1,0 +1,7 @@
+Integer	num	
+Integer	length	
+Integer	i	
+Integer	j	
+Integer	first	
+char	a	
+char	b	

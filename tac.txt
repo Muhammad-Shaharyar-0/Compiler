@@ -1,0 +1,35 @@
+1)	a:='x'
+2)	print "Enter Interger "
+3)	In i
+4)	print "Enter Character "
+5)	In b
+6)	println i
+7)	if i>10 goto 9
+8)	goto 35
+9)	first:=0
+10)	j:=10
+11)	if j<i goto 13
+12)	goto 19
+13)	T12:= j+1
+14)	T13:= T12-1
+15)	T14:= T13-3
+16)	first:=T14
+17)	j:=j+1
+18)	goto 11
+19)	println first
+20)	if j==1 goto 22
+21)	goto 24
+22)	print "one"
+23)	goto 33
+24)	elif j==2 goto 26
+25)	goto 28
+26)	print "two"
+27)	goto 33
+28)	if j>first goto 30
+29)	goto 31
+30)	print 1
+31)	print "others "
+32)	print 'x'
+33)	i:=i-1
+34)	goto 7
+35)	ret i

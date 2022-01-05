@@ -1,0 +1,42 @@
+Integer	num	0	0
+Integer	length	4	0
+Integer	i	8	0
+Integer	j	12	0
+Integer	first	16	0
+char	a	20	
+char	b	21	
+Integer	T12	22	0
+Integer	T13	26	0
+Integer	T14	30	0
+char	T10	34	'x'
+char	T11	35	"Enter Interger "
+char	T12	36	"Enter Character "
+Integer	T13	37	10
+Integer	T14	41	9
+Integer	T15	45	35
+Integer	T16	49	0
+Integer	T17	53	10
+Integer	T18	57	13
+Integer	T19	61	19
+Integer	T20	65	1
+Integer	T21	69	1
+Integer	T22	73	3
+Integer	T23	77	1
+Integer	T24	81	11
+Integer	T25	85	1
+Integer	T26	89	22
+Integer	T27	93	24
+char	T28	97	"one"
+Integer	T29	98	33
+Integer	T30	102	2
+Integer	T31	106	26
+Integer	T32	110	28
+char	T33	114	"two"
+Integer	T34	115	33
+Integer	T35	119	30
+Integer	T36	123	31
+Integer	T37	127	1
+char	T38	131	"others "
+char	T39	132	'x'
+Integer	T40	133	1
+Integer	T41	137	7

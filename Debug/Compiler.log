@@ -1,0 +1,21 @@
+﻿  Source.cpp
+C:\Users\shahe\source\repos\Compiler\Compiler\Source.cpp(57,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\shahe\source\repos\Compiler\Compiler\Source.cpp(339,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\shahe\source\repos\Compiler\Compiler\Source.cpp(379,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\shahe\source\repos\Compiler\Compiler\Source.cpp(422,15): warning C4101: 'f': unreferenced local variable
+C:\Users\shahe\source\repos\Compiler\Compiler\Source.cpp(570,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\shahe\source\repos\Compiler\Compiler\Source.cpp(577,18): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\shahe\source\repos\Compiler\Compiler\Source.cpp(590,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\shahe\source\repos\Compiler\Compiler\Source.cpp(597,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\shahe\source\repos\Compiler\Compiler\Source.cpp(795,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\shahe\source\repos\Compiler\Compiler\Source.cpp(1066,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\shahe\source\repos\Compiler\Compiler\Source.cpp(1154,20): warning C4018: '>': signed/unsigned mismatch
+C:\Users\shahe\source\repos\Compiler\Compiler\Source.cpp(1184,20): warning C4018: '>': signed/unsigned mismatch
+C:\Users\shahe\source\repos\Compiler\Compiler\Source.cpp(1488,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\shahe\source\repos\Compiler\Compiler\Source.cpp(1500,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\shahe\source\repos\Compiler\Compiler\Source.cpp(1512,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\shahe\source\repos\Compiler\Compiler\Source.cpp(1524,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\shahe\source\repos\Compiler\Compiler\Source.cpp(375): warning C4715: 'LexicalAnalysizer::CheckID': not all control paths return a value
+C:\Users\shahe\source\repos\Compiler\Compiler\Source.cpp(1495): warning C4715: 'VirtualMachine::FindVariable': not all control paths return a value
+C:\Users\shahe\source\repos\Compiler\Compiler\Source.cpp(535): warning C4715: 'LexicalAnalysizer::checkFileExtension': not all control paths return a value
+  Compiler.vcxproj -> C:\Users\shahe\source\repos\Compiler\Debug\Compiler.exe
